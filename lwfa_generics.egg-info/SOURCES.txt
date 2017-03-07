@@ -1,0 +1,7 @@
+setup.py
+lwfa_generics/__init__.py
+lwfa_generics/generic.py
+lwfa_generics.egg-info/PKG-INFO
+lwfa_generics.egg-info/SOURCES.txt
+lwfa_generics.egg-info/dependency_links.txt
+lwfa_generics.egg-info/top_level.txt
